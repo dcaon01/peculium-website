@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install next-intl)",
+      "Bash(npm ls next-intl)",
+      "Bash(npx next build)"
+    ]
+  }
+}
