@@ -1,7 +1,8 @@
 {
   "Home": {
-    "comingSoon": "Prossimamente...",
+    "title": "PECULIUM",
     "motto": "Costruisci il tuo benessere.",
+    "comingSoon": "In arrivo...",
     "cta": "Voglio più informazioni",
     "emailSubject": "Richiesta informazioni",
     "emailBody": "Salve, vorrei più informazioni."

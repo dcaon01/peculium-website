@@ -1,7 +1,8 @@
 {
   "Home": {
-    "comingSoon": "Coming Soon...",
+    "title": "PECULIUM",
     "motto": "Build your wealth.",
+    "comingSoon": "Coming soon...",
     "cta": "I want more info",
     "emailSubject": "Information request",
     "emailBody": "Hello, I would like more information."
