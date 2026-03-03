@@ -3,7 +3,8 @@
     "allow": [
       "Bash(npm install next-intl)",
       "Bash(npm ls next-intl)",
-      "Bash(npx next build)"
+      "Bash(npx next build)",
+      "Bash(npm install vanta three)"
     ]
   }
 }
